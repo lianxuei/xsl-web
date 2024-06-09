@@ -1,0 +1,323 @@
+{
+	"success": true,
+	"result": {
+		"children": [{
+				"operate": "切胖嘟嘟戏法锁妙蛙",
+				"children": [{
+					"operate": "暴飞龙龙舞+4+羽栖",
+					"children": [],
+					"label": "妙蛙花",
+					"id": 2
+				}],
+				"label": "水箭龟",
+				"id": 1
+			},
+			{
+				"operate": "求雨，送天蝎",
+				"children": [{
+					"operate": "胖嘟嘟喷水点杀",
+					"children": [{
+						"operate": "上巨金送掉",
+						"children": [{
+							"operate": "胖嘟嘟戏法锁终极吸取",
+							"children": [{
+								"operate": "暴飞龙+4+羽栖",
+								"children": [],
+								"label": "●",
+								"id": 7
+							}],
+							"label": "●",
+							"id": 6
+						}],
+						"label": "妙蛙花",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 2
+				}],
+				"label": "喷火龙",
+				"id": 3
+			},
+			{
+				"operate": "撒钉，求雨，送天蝎",
+				"children": [{
+					"operate": "上胖嘟嘟戏法锁终极吸取，送胖嘟嘟",
+					"children": [{
+						"operate": "暴飞龙+4+羽栖",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "妙蛙花",
+				"id": 3
+			},
+			{
+				"operate": "撒钉，大晴天",
+				"children": [{
+					"operate": "胖嘟嘟戏法锁地震",
+					"children": [{
+						"operate": "暴飞龙+4",
+						"children": [],
+						"label": "●",
+						"id": 7
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "卡比兽",
+				"id": 5
+			},
+			{
+				"operate": "除雾，撒钉，送天蝎",
+				"children": [{
+					"operate": "切巨金戏法锁地震",
+					"children": [{
+						"operate": "蛾子+4",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "巨沼怪",
+				"id": 3
+			},
+			{
+				"operate": "求雨",
+				"children": [{
+					"operate": "胖嘟嘟喷水点杀",
+					"children": [{
+						"operate": "送巨金，",
+						"children": [{
+							"operate": "胖嘟嘟戏法锁终极吸取,暴飞龙+4+羽栖",
+							"children": [],
+							"label": "●",
+							"id": 6
+						}],
+						"label": "妙蛙花",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "太阳伊布",
+				"id": 3
+			},
+			{
+				"operate": "大晴天",
+				"children": [{
+					"operate": "除雾，撒钉",
+					"children": [{
+						"operate": "切巨金戏法锁地震，蛾子+5开个替身",
+						"children": [],
+						"label": "●",
+						"id": 1
+					}],
+					"label": "不走",
+					"id": 2
+				}, {
+					"operate": "送暴飞龙",
+					"children": [{
+						"operate": "上巨金戏法",
+						"children": [{
+								"operate": "蛾子+5+替身",
+								"children": [],
+								"label": "天蝎王",
+								"id": 3
+							},
+							{
+								"operate": "巨金怪开反射壁，天蝎除雾",
+								"children": [{
+									"operate": "胖嘟嘟戏法锁终极吸取，蛾子+5+替身",
+									"children": [],
+									"label": "跑大菊花",
+									"id": 4
+								}],
+								"label": "咬碎",
+								"id": 5
+							}
+						],
+						"label": "●",
+						"id": 6
+					}],
+					"label": "跑大力鳄",
+					"id": 7
+				}, {
+					"operate": "撒钉",
+					"children": [{
+						"operate": "巨金戏法锁地震，蛾子+5",
+						"children": [],
+						"label": "●",
+						"id": 8
+					}],
+					"label": "跑老班",
+					"id": 9
+				}],
+				"label": "天蝎王",
+				"id": 10
+			},
+			{
+				"operate": "送蛾子",
+				"children": [{
+					"operate": "上天蝎求雨，撒钉",
+					"children": [{
+						"operate": "上巨金戏法，暴飞龙+4+羽栖",
+						"children": [],
+						"label": "●",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 4
+				}],
+				"label": "炎武王",
+				"attention": "出谁都送蛾子",
+				"id": 3
+			},
+			{
+				"operate": "切胖嘟嘟送死",
+				"children": [{
+					"operate": "蛾子点杀，",
+					"children": [{
+						"operate": "送蛾子",
+						"children": [{
+							"operate": "巨金戏法锁，暴飞龙+4",
+							"children": [],
+							"label": "●",
+							"attention": "注意回血",
+							"id": 5
+						}],
+						"label": "出火猪",
+						"id": 5
+					}],
+					"label": "电反出草蛇",
+					"id": 4
+				}, {
+					"operate": "切天蝎撒钉，大晴天",
+					"children": [{
+						"operate": "上巨金戏法锁地震，暴飞龙+4",
+						"children": [],
+						"label": "●",
+						"id": 9
+					}],
+					"label": "电反出卡比",
+					"id": 8
+				}],
+				"label": "皮卡丘",
+				"id": 3
+			},
+			{
+				"operate": "切蛾子虫鸣点杀",
+				"children": [{
+					"operate": "蛾子送掉",
+					"children": [{
+						"operate": "上天蝎求雨，送天蝎",
+						"children": [{
+							"operate": "巨金戏法，上暴飞龙龙舞+4",
+							"attention": "注意回血",
+							"children": [],
+							"label": "●",
+							"id": 2
+						}],
+						"label": "●",
+						"id": 3
+					}],
+					"attention": "只要不是天蝎",
+					"label": "炎武王吼叫",
+					"id": 6
+				}],
+				"label": "君主蛇",
+				"id": 7
+			},
+			{
+				"operate": "送天蝎，幸福蛋求雨",
+				"children": [{
+					"operate": "送蛋上巨金戏法",
+					"children": [{
+						"operate": "暴飞龙+4",
+						"children": [],
+						"label": "●",
+						"attention": "注意回血",
+						"id": 3
+					}],
+					"label": "炎武王",
+					"id": 6
+				}],
+				"label": "大剑鬼",
+				"id": 7
+			},
+			{
+				"operate": "求雨，撒钉，送天蝎",
+				"children": [{
+					"operate": "胖嘟嘟喷水点杀",
+					"children": [{
+						"operate": "切蛾子虫鸣点杀",
+						"children": [{
+							"operate": "切蛾子送掉",
+							"children": [{
+								"operate": "上巨金戏法，上暴飞龙龙舞+4",
+								"children": [],
+								"attention": "注意回血",
+								"label": "●",
+								"id": 3
+							}],
+							"label": "火猪吼叫",
+							"id": 4
+						}],
+						"label": "草蛇",
+						"id": 5
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "龙头地鼠",
+				"id": 7
+			},
+			{
+				"operate": "切胖嘟嘟送死",
+				"children": [{
+					"operate": "上蛾子点杀",
+					"children": [{
+						"operate": "送一个上天蝎求雨，撒钉",
+						"children": [{
+							"operate": "上巨金戏法，上暴飞龙龙舞+4",
+							"children": [],
+							"attention": "注意回血",
+							"label": "●",
+							"id": 2
+						}],
+						"label": "炎武王吼叫",
+						"id": 3
+					}],
+					"label": "●",
+					"id": 6
+				}],
+				"label": "三首恶龙",
+				"id": 7
+			},
+			{
+				"operate": "切巨金切胖嘟嘟喷水点杀",
+				"children": [{
+					"operate": "切天蝎撒钉，切巨金戏法",
+					"children": [{
+						"operate": "蛾子+5+替身",
+						"children": [],
+						"label": "土台龟",
+						"id": 5
+					}],
+					"label": "土台龟",
+					"id": 6
+				}],
+				"label": "姆克鹰",
+				"attention": "只要不是巨金怪",
+				"id": 7
+			}
+
+		]
+	},
+	"error": null,
+	"errorMessage": null
+}
