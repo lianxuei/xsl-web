@@ -1,101 +1,185 @@
-[{
-	"label": "app更新链接：",
-	"value": "复制至浏览器打开",
-	"code": "",
-	"qq": "https://www.123pan.com/s/75y3jv-u24l.html"
-}, {
-	"label": "配置说明：",
-	"value": "配置仅供参考,以作者的最新发布为准",
-	"code": "",
-	"qq": ""
-}, {
-	"label": "莽夫 + 赤红",
-	"value": "8F96FD275D9B07CAA4DD2F2FBF284F1B",
-	"code": "/static/DaoGuan/mangfu.jpg",
-	"qq": "QQ交流群：333790551"
-}, {
-	"label": "渡金 + 赤红",
-	"value": "782EF31C1581E4948804D37C4162935D",
-	"code": "/static/DaoGuan/dujin.jpg",
-	"qq": "QQ交流群：759821983"
-}, {
-	"label": "龙蝎 + 赤红",
-	"value": "彼其娘之",
-	"code": "/static/DaoGuan/chihong.jpg",
-	"qq": "QQ交流群：378382295"
-}, {
-	"label": "水火2.5",
-	"value": "C619287BA90CBD2C911709873E721D82",
-	"code": "",
-	"qq": "QQ交流群：808310239"
-}, {
-	"label": "水火3.0",
-	"value": "5EA884D6E4B594066303819679D08CC0",
-	"code": "",
-	"qq": "QQ交流群：808310239"
-}, {
-	"label": "龙狩 + 赤红",
-	"value": "8718309185506CA418715EABA3C39840",
-	"code": "",
-	"qq": "QQ交流群：541872070"
-},  {
-	"label": "破空队",
-	"value": "5AB895C1619E66ECC8227F3F226ED228",
-	"code": "/static/DaoGuan/pokong.jpg",
-	"qq": "QQ交流群：910993952"
-}, {
-	"label": "野味队",
-	"value": "8E8EBC6ECBC9DEE4FE9BFAEC97A05375",
-	"code": "/static/DaoGuan/yewei.jpg",
-	"qq": "QQ交流群：304979730"
-}, {
-	"label": "小舞",
-	"value": "77744D2C2DBDDE63994AE407978F1B3C",
-	"code": "",
-	"qq": "QQ交流群：618500297"
-}, {
-	"label": "小蛋",
-	"value": "A540A1E1F263858EBA7E718D80772136",
-	"code": "/static/DaoGuan/xiaodan.jpg",
-	"qq": "QQ交流群：暂无"
-}, {
-	"label": "金蛇",
-	"value": "4BA97370677918D007CC6FBFB739CCB1",
-	"code": "",
-	"qq": "QQ交流群：764398621"
-}, {
-	"label": "泥龙",
-	"value": "A61F51DD9789B394BF965B20C806B8DB",
-	"code": "",
-	"qq": "QQ交流群：暂无"
-}, {
-	"label": "三鹿",
-	"value": "2A699B0559FD8771BA7F5475ED95918D",
-	"code": "",
-	"qq": "QQ交流群：649679539"
-}, {
-	"label": "拦截",
-	"value": "D34EB8D53A8FD815FAFCCADABEC8D740",
-	"code": "",
-	"qq": "QQ交流群：469430497"
-}, {
-	"label": "龙魄",
-	"value": "75B62639B5445278832EDA68E3D572DD",
-	"code": "",
-	"qq": "QQ交流群：833271916"
-}, {
-	"label": "圣舞",
-	"value": "76873DF0B7756720BF7A8976E690672A",
-	"code": "",
-	"qq": "QQ交流群：966108977"
-}, {
-	"label": "鬼舞（rp弹）",
-	"value": "D48B40F746776D65F772A60F03919B80",
-	"code": "",
-	"qq": "QQ交流群：240382874"
-}, {
-	"label": "鬼舞（十万伏特）",
-	"value": "B501F6FA8ED9269E0C48F58289A72B7A",
-	"code": "",
-	"qq": "QQ交流群：240382874"
-}]
+[
+	{
+		"label": "app云盘链接",
+		"value": "复制至浏览器打开",
+		"anNiu": false,
+		"code": "",
+		"qqKey": "",
+		"qq": "https://www.123pan.com/s/75y3jv-u24l.html"
+	},
+	{
+		"label": "配置说明",
+		"value": "配置仅供参考,以作者的最新发布为准",
+		"anNiu": false,
+		"code": "",
+		"qqKey": "",
+		"qq": ""
+	},
+	{
+		"label": "天王安卓app/PC反馈群",
+		"value": "",
+		"anNiu": false,
+		"code": "",
+		"qqKey": "qyZTqQOzLsCycoTENBTy0jm7Xr9u2GU2",
+		"qq": "QQ交流群：941186537"
+	},{
+		"label": "天王苹果app反馈群",
+		"value": "",
+		"anNiu": false,
+		"code": "",
+		"qqKey": "Ky9nkHDmxnvP0ss6iNBrGzOlMbrVDhB6",
+		"qq": "QQ交流群：297908864"
+	},
+	{
+		"label": "莽夫 + 赤红",
+		"value": "8F96FD275D9B07CAA4DD2F2FBF284F1B",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODirMsxmMzFRFQ!!/800?w5=671&h5=1532&rf=viewer_421",
+		"qqKey": "vn3PBXunpJRNnuI-7uy1BgWGklBj3fz1",
+		"qq": "QQ交流群：333790551"
+	},
+	{
+		"label": "渡金 + 赤红",
+		"value": "782EF31C1581E4948804D37C4162935D",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODitMsxmqcnqFA!!/800?w5=671&h5=1469&rf=viewer_421",
+		"qqKey": "",
+		"qq": "QQ交流群：759821983"
+	},
+	{
+		"label": "龙蝎 + 赤红",
+		"value": "5227735B32BA622C7EDEC21137BF3520",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODisMsxmvs0WFQ!!/800?w5=671&h5=2047&rf=viewer_421",
+		"qqKey": "9p_l4Nl_DQOeLtrmroWfkzJrMSEPhyUj",
+		"qq": "QQ交流群：378382295"
+	},
+	{
+		"label": "剑魔队",
+		"value": "5A2AA7930738B6AAC7280D5D3E33696C",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：144141936"
+	},
+	{
+		"label": "水火2.5",
+		"value": "C619287BA90CBD2C911709873E721D82",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：808310239"
+	},
+	{
+		"label": "水火3.0",
+		"value": "5EA884D6E4B594066303819679D08CC0",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：808310239"
+	},
+	{
+		"label": "龙狩 + 赤红",
+		"value": "8718309185506CA418715EABA3C39840",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：541872070"
+	},
+	{
+		"label": "破空地鼠队",
+		"value": "B5AC5E6EF36958E7765A4CECF9A510D4",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODioMsxmLZ3nFQ!!/800?w5=671&h5=1849&rf=viewer_421",
+		"qqKey": "noRxfQShHnwBYX4aS0AYiu1Pn6sldH9V",
+		"qq": "QQ交流群：984675616"
+	},
+	{
+		"label": "破空地龙队",
+		"value": "5AB895C1619E66ECC8227F3F226ED228",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODipMsxmfvO2FQ!!/800?w5=671&h5=1849&rf=viewer_421",
+		"qqKey": "noRxfQShHnwBYX4aS0AYiu1Pn6sldH9V",
+		"qq": "QQ交流群：984675616"
+	},
+	{
+		"label": "野味队",
+		"value": "8E8EBC6ECBC9DEE4FE9BFAEC97A05375",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODimMsxmuv6GFg!!/800?w5=671&h5=1756&rf=viewer_421",
+		"qqKey": "",
+		"qq": "QQ交流群：304979730"
+	},
+	{
+		"label": "小舞",
+		"value": "77744D2C2DBDDE63994AE407978F1B3C",
+		"anNiu": true,
+		"code": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODinMsxmwM9SFg!!/800?w5=800&h5=5556&rf=viewer_421",
+		"qqKey": "S4CF4lK6iQXMK8VJFrm4Zh5bvNy7r-jU",
+		"qq": "QQ交流群：618500297"
+	},
+	{
+		"label": "冥龙",
+		"value": "790049E2216A6C54614B2E4766503936",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "http://qungz.photo.store.qq.com/qun-qungz/V54Z00EL2zHIsr2eZfgS4CtkUz2EDsoE/V5bCQA1NTk0Mjk2ODiqMsxm9HmEFQ!!/800?w5=671&h5=1842&rf=viewer_421",
+		"qq": "QQ交流群：618500297"
+	},
+	{
+		"label": "金蛇",
+		"value": "4BA97370677918D007CC6FBFB739CCB1",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：764398621"
+	},
+	{
+		"label": "三鹿",
+		"value": "2A699B0559FD8771BA7F5475ED95918D",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：649679539"
+	},
+	{
+		"label": "拦截",
+		"value": "D34EB8D53A8FD815FAFCCADABEC8D740",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：469430497"
+	},
+	{
+		"label": "龙魄",
+		"value": "75B62639B5445278832EDA68E3D572DD",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：833271916"
+	},
+	{
+		"label": "圣舞",
+		"value": "76873DF0B7756720BF7A8976E690672A",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "",
+		"qq": "QQ交流群：966108977"
+	},
+	{
+		"label": "鬼舞（rp弹）",
+		"value": "D48B40F746776D65F772A60F03919B80",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "sMp-1rDBTqH8Pd8nXVsbyEU1zoIZwvDS",
+		"qq": "QQ交流群：240382874"
+	},
+	{
+		"label": "鬼舞（十万伏特）",
+		"value": "B501F6FA8ED9269E0C48F58289A72B7A",
+		"anNiu": true,
+		"code": "",
+		"qqKey": "sMp-1rDBTqH8Pd8nXVsbyEU1zoIZwvDS",
+		"qq": "QQ交流群：240382874"
+	}
+]
